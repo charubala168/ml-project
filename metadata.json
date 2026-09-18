@@ -1,0 +1,7 @@
+{
+  "name": "Inkling - Study & Exam Planner",
+  "description": "Professional study planner and exam schedule tracker with mood-adaptive revision timelines, syllabus progress meters, and AI study roadmaps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
